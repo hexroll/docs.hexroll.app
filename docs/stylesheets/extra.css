@@ -1,0 +1,62 @@
+.admonition {
+  border: 0 !important;
+}
+
+p img {
+  border: 1px solid #333 !important;
+}
+
+#banner {
+  text-align: center;
+  position: fixed;
+  left: 0;
+  width: 100vw;
+  padding: 0 10em;
+  min-width: 100%;
+}
+
+#banner img {
+  border: 0px !important;
+}
+
+.admonition-title {
+  background-color: #ff00481a !important;
+}
+
+.admonition-title::before {
+  background-color: #00000055 !important;
+}
+
+:root {
+  --md-accent-fg-color--transparent: #212121;
+  --md-accent-fg-color: #212121;
+  --md-accent-bg-color--light: #212121;
+  --md-accent-bg-color: #212121;
+  --md-typeset-border-color: #ff0000;
+  --md-admonition-bg-color: #ff0000;
+}
+[data-md-color-scheme='default'] {
+  --md-primary-fg-color: #212121;
+  --md-primary-fg-color--light: #ecb7b7;
+  --md-primary-fg-color--dark: #90030c;
+}
+[data-md-color-scheme='slate'] {
+  --md-primary-fg-color: #212121;
+  --md-primary-fg-color--light: #ecb7b7;
+  --md-primary-fg-color--dark: #90030c;
+}
+
+[data-md-color-scheme='hexroll-slate'] {
+  --md-hue: 210;
+}
+[data-md-color-scheme='slate'] {
+  --md-hue: 230;
+  --md-default-fg-color: hsla(var(--md-hue), 75%, 95%, 1);
+  --md-default-fg-color--light: hsla(var(--md-hue), 75%, 90%, 0.62);
+  --md-default-fg-color--lighter: hsla(var(--md-hue), 75%, 90%, 0.32);
+  --md-default-fg-color--lightest: hsla(var(--md-hue), 75%, 90%, 0.12);
+  --md-default-bg-color: hsla(var(--md-hue), 05%, 21%, 1);
+  --md-default-bg-color--light: hsla(var(--md-hue), 15%, 21%, 0.54);
+  --md-default-bg-color--lighter: hsla(var(--md-hue), 15%, 21%, 0.26);
+  --md-default-bg-color--lightest: hsla(var(--md-hue), 15%, 21%, 0.07);
+}

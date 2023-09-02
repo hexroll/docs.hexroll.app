@@ -1,0 +1,50 @@
+site_name: HEXROLL Guidebook
+extra_css:
+  - /stylesheets/extra.css
+nav:
+  - Getting Started:
+      - What is Hexroll?: getting-started/index.md
+      - The Hex Map: getting-started/the-hex-map.md
+      - Crawl Mode: getting-started/crawl-mode.md
+      - Search Box: getting-started/searching.md
+  - Building a Sandbox:
+      - Generating a Realm: building-a-sandbox/generating-a-realm.md
+      - Editing the Map: building-a-sandbox/map-editing.md
+      - Rerolling Content: building-a-sandbox/rerolling-content.md
+  - Playing with Hexroll:
+      - It's Just a Tool: playing-with-hexroll/its-just-a-tool.md
+      - Using Hexroll Offline: playing-with-hexroll/using-hexroll-offline.md
+      - Note Taking: playing-with-hexroll/note-taking.md
+      - VTT Projection: playing-with-hexroll/vtt-projection.md
+  - Going Deeper:
+      - How Things Work: hexroll-internals/generation-sequence.md
+      - Inspecting the Sandbox: hexroll-internals/inspecting-the-graph.md
+      - Sandbox Graph Behaviors: hexroll-internals/graph-behavior.md
+      - Changing the Rules: hexroll-internals/editing-your-sandbox-scrolls.md
+  - Scroll:
+      - Scroll Tutorial: scroll/scroll-tutorial.md
+theme:
+  logo: assets/logo.png
+  font:
+    text: Poppins
+  name: material
+  features:
+    - header.autohide
+    - navigation.tabs
+    - navigation.footer
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
