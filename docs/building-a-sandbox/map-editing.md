@@ -21,7 +21,7 @@ The `plus` button allows you to generate a new realm to randomly border an exist
 
 This button will open up the new realm generator and will append the new realm to any existing landmass.
 
-Generating realms in other locations on the map, or generating other map features require using the hex menu.
+Generating realms in other locations on the map, or generating other map features require's using the hex menu.
 
 ## The Hex Menu
 

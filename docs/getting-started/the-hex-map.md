@@ -48,15 +48,15 @@ If you click the toggle icon, two additional icons will be revealed:
 
 ![Map Toggles](/images/toggles.jpg)
 
-**Labels Visibility Toggle**
+**Labels Visibility Toggle**:
 Clicking the labels visibility toggle will hide or show map labels.
 
-**Color Saturation Toggle**
+**Color Saturation Toggle**:
 Clicking the color saturation toggle will switch between low color saturation and high color saturation modes.
 
 ## The Map Lock
 
-After generating a realm, your map will be `locked`. A locked maps is immutable. This is what you want it to be most of the time.
+After generating a realm, your map will be `locked`. A locked map is immutable. This is what you want it to be most of the time.
 
 ![Map Lock](/images/lock.jpg)
 

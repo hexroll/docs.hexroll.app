@@ -27,7 +27,7 @@ link.
 ![Download Ready](/images/download_ready.jpg)
 
 
-Next, download an install the Hexroll Backpack application on your computer.
+Next, download and install the Hexroll Backpack application on your computer.
 
 * [Hexroll Backpack for Windows](https://hexroll.app/backpack/windows)
 * [Hexroll Backpack for MacOS](https://hexroll.app/backpack/macos)

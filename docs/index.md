@@ -12,7 +12,7 @@ Welcome to HEXROLL 2e guidebook.
 </p>
 
 <p>
-This is the first draft and there are pages missing or incomplete.
+This is the first draft. Some pages may be missing or incomplete.
 </p>
 
 <p>

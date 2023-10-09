@@ -1,7 +1,7 @@
 # Scroll Tutorial
 __*Scroll*__ offers an efficient syntax for coding text generation models and it enables most of the new capabilities planned for HEXROLL|2.
 
-Some the capabilities __*Scroll*__ has are:
+Some of the capabilities __*Scroll*__ has are:
 
 * Rolling random values from lists.
 * Rolling random values using dice notations.
@@ -63,9 +63,9 @@ Now let's examine the `HTML` renderer:
 
 Any entity type we define can have a `<html%` `%html>` block that can hold HTML template code. This code is a mixture of standard HTML tags together with template code that can reference attribute values or even execute custom logic.
 
-In our example we render a paragraph using the `<p>` tag and then use the double curly braces notation `{{greeting}}` to output the random value rolled for `greeting`.
+In our example we render a paragraph using the `<p>` tag and then use the double curly brackets notation `{{greeting}}` to output the random value rolled for `greeting`.
 
-Finally, both `greeting` and the `HTML` renderer are placed inside the `{` curly braces `}` of the `main` class. Every Scroll script must have exactly one `main` class definition as the entry point for the generator.
+Finally, both `greeting` and the `HTML` renderer are placed inside the `{` curly brackets `}` of the `main` class. Every Scroll script must have exactly one `main` class definition as the entry point for the generator.
 
 
 ### Classes
@@ -90,7 +90,7 @@ Kingdom (Realm) {
 }
 ```
 
-Let put this together:
+Let's put this together:
 
 ```
 Realm {
@@ -179,7 +179,7 @@ Simple strings can be simply assigned into attributes using the `=` operator:
 attribute_name = A simple string
 ```
 
-Strings that has special symbols require surrounding quotes:
+Strings that have special symbols require surrounding quotes:
 
 ```
 attribute_name = "a string with {{template}} code"
@@ -402,7 +402,7 @@ In this post I will continue and explore:
 - Using data injection to link entities together
 - Using scope references to access ancestors entity values
 
-To me, one of the neat things about HEXROLL is its ability to link entities together. This is done in a way that is just enough to prompt you with cool plot hook to further develop.
+To me, one of the neat things about HEXROLL is its ability to link entities together. This is done in a way that is just enough to prompt you with cool plot hooks to further develop.
 
 Let's take a look at how this linking thing actually works.
 
@@ -412,7 +412,7 @@ By using collections we can instruct an entity to 'collect' references to other 
 
 For example, in the previous post we generated realms that contain settlements, which in turn, contain NPCs.
 
-Let's extended that model and use a collection directive to store references to all generated NPCs inside the realm:
+Let's extend that model and use a collection directive to store references to all generated NPCs inside the realm:
 
 ```
 Realm {
@@ -587,7 +587,7 @@ realm_name = :Realm.name
 realm_class = :Realm.class
 ```
 
-In this case, we created to new `faction` attributes, `realm_name` and `realm_class`, and using the parent `Realm` entity to set their values accordingly.
+In this case, we created two new `faction` attributes, `realm_name` and `realm_class`, and used the parent `Realm` entity to set their values accordingly.
 
 ### Putting everything together
 

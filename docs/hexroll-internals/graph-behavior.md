@@ -21,7 +21,7 @@ And together with NPCs, Hexroll will begin generating quests. Some quests will r
 
 ### Dungeon is removed
 
-If for while editing the map after quests were already generated, a location used by a quest is invalidated, Hexroll will try resolving the inconsistency by finding an alternative location for the quest. This same principal applies to other entity types throughout the sandbox.
+If, while editing the map after quests were already generated, a location used by a quest is invalidated, Hexroll will try resolving the inconsistency by finding an alternative location for the quest. This same principle applies to other entity types throughout the sandbox.
 ![Step5](/images/graph-6.png)
 
 ### The last dungeon is removed
@@ -31,6 +31,6 @@ If following entity invalidation, an entity relation with another entity could n
 
 ### A new dungeon is added
 
-Even if a new dungeon is generated, the invalidated quest is gone forever, and you will have to regenerate a new quest for the NPC
+Even if a new dungeon is generated, the invalidated quest is gone forever, and you will have to regenerate a new quest for the NPC.
 ![Step5](/images/graph-9.png)
 
