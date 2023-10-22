@@ -4,15 +4,16 @@ extra_css:
 nav:
   - Getting Started:
       - What is Hexroll?: getting-started/index.md
+      - Rolling a Sandbox: getting-started/new-sandbox.md
       - The Hex Map: getting-started/the-hex-map.md
       - Crawl Mode: getting-started/crawl-mode.md
       - Search Box: getting-started/searching.md
-      - Online & Offline: getting-started/online-offline.md
   - Building a Sandbox:
       - Generating a Realm: building-a-sandbox/generating-a-realm.md
       - Editing the Map: building-a-sandbox/map-editing.md
       - Rerolling Content: building-a-sandbox/rerolling-content.md
       - Editing Content: building-a-sandbox/editing-content.md
+      - Ephemeral Sandboxes: building-a-sandbox/ephemeral.md
   - Playing with Hexroll:
       - It's Just a Tool: playing-with-hexroll/its-just-a-tool.md
       - Using Hexroll Offline: playing-with-hexroll/using-hexroll-offline.md

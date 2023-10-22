@@ -4,7 +4,7 @@ The hex map is where you view, navigate and edit your sandbox topography.
 This is where you will see your generated realms, and where you can edit terrain and main map features such as settlements and dungeons.
 
 
-![The Hex Map](/images/map.png)
+![The Hex Map](/images/map.jpg)
 
 When you generate a realm, Hexroll will first create a set of regions, and within each region, a set of hexes. When Hexroll is done generating the content, it will proceed and generate a random map for you.
 
@@ -24,7 +24,7 @@ Dungeon maps are revealed when you zoom into any hex with a dungeon symbol. Dung
 
 If you click any area in the dungeon map, you will enter crawl-mode.
 
-![The Dungeon Map](/images/dungeon-map.png)
+![The Dungeon Map](/images/dungeon-map.jpg)
 
 ### Settlement Maps
 
@@ -49,10 +49,13 @@ If you click the toggle icon, two additional icons will be revealed:
 ![Map Toggles](/images/toggles.jpg)
 
 **Labels Visibility Toggle**:
-Clicking the labels visibility toggle will hide or show map labels.
+Clicking the labels visibility toggle will hide or show map labels. When using the labels toggle with a dungeon map, you will also get a preview of areas with encounters.
 
 **Color Saturation Toggle**:
 Clicking the color saturation toggle will switch between low color saturation and high color saturation modes.
+
+**VTT mode**:
+Clicking the VTT mode will activate your sandbox VTT room and let you invite other players to a shared, player-version of the map.
 
 ## The Map Lock
 
