@@ -26,6 +26,7 @@ nav:
       - Changing the Rules: hexroll-internals/editing-your-sandbox-scrolls.md
   - Scroll:
       - Scroll Tutorial: scroll/scroll-tutorial.md
+      - Modding Guide: scroll/scroll-mods.md
 theme:
   logo: assets/logo.png
   font:
