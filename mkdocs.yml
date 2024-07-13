@@ -8,6 +8,8 @@ nav:
       - The Hex Map: getting-started/the-hex-map.md
       - Crawl Mode: getting-started/crawl-mode.md
       - Search Box: getting-started/searching.md
+      - Quick Help: getting-started/help.md
+      - FAQ: getting-started/faq.md
   - Building a Sandbox:
       - Generating a Realm: building-a-sandbox/generating-a-realm.md
       - Editing the Map: building-a-sandbox/map-editing.md
@@ -16,19 +18,17 @@ nav:
       - Ephemeral Sandboxes: building-a-sandbox/ephemeral.md
   - Playing with Hexroll:
       - It's Just a Tool: playing-with-hexroll/its-just-a-tool.md
-      - Using Hexroll Offline: playing-with-hexroll/using-hexroll-offline.md
-      - Note Taking: playing-with-hexroll/note-taking.md
+      - Solo and No-Spoilers: playing-with-hexroll/solo.md
+      - Dice Box: playing-with-hexroll/dice.md
+      - Map Pins: playing-with-hexroll/pins.md
       - VTT Projection: playing-with-hexroll/vtt-projection.md
-  - Going Deeper:
-      - How Things Work: hexroll-internals/generation-sequence.md
-      - Inspecting the Sandbox: hexroll-internals/inspecting-the-graph.md
-      - Sandbox Graph Behaviors: hexroll-internals/graph-behavior.md
-      - Changing the Rules: hexroll-internals/editing-your-sandbox-scrolls.md
-  - Scroll:
+      - Using Hexroll Offline: playing-with-hexroll/using-hexroll-offline.md
+  - Modding using SCROLL:
       - Scroll Tutorial: scroll/scroll-tutorial.md
       - Modding Guide: scroll/scroll-mods.md
+      - Sandbox Graph Behaviors: hexroll-internals/graph-behavior.md
 theme:
-  logo: assets/logo.png
+  logo: images/logo.png
   font:
     text: Poppins
   name: material

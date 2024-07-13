@@ -27,83 +27,71 @@ Generating realms in other locations on the map, or generating other map feature
 
 The main map editing tool in Hexroll is the hex menu. This menu will show up if you click any hex while the map is unlocked for editing.
 
-
 ![menu](/images/menu.svg)
 
 !!! tip
+
     Hovering over a hex tool button will reveal its tool tip.
 
 ### Rearrange Realm Hex Map
 
-*
-![rearrange button](/images/button_rearrange.png)
-Rearrange realm regions and hexes - use it to reshape the map
-
-
+- ![rearrange button](/images/button_rearrange.png)
+  Rearrange realm regions and hexes - use it to reshape the map
 
 ### Rolling new features or land
+
 ![roll button](/images/button_roll.png)
 
 When you choose to roll new features or land, you will be presented with the following options:
 
-* 
-![roll dungeon](/images/button_dungeon.png)
-Roll a dungeon - this option will be enabled only if you select an empty land hex.
+- ![roll dungeon](/images/button_dungeon.png)
+  Roll a dungeon - this option will be enabled only if you select an empty land hex.
 
-*  
-![roll settlement](/images/button_settlement.png)
-Roll a settlement - this option will be enabled only if you select an empty land hex.
- 
-*  
-![roll river](/images/button_river.png)
-Roll a river - this option will be enabled only if you select a mountain hex bordering a non-mountain, non-ocean hex.
+- ![roll settlement](/images/button_settlements.png)
+  Roll a settlement - this option will be enabled only if you select an empty land hex.
 
+- ![roll river](/images/button_river.png)
+  Roll a river - this option will be enabled only if you select a mountain hex bordering a non-mountain, non-ocean hex.
 
-*  
-![roll realm](/images/button_realm.png)
-Roll a realm - this option will be enabled only if you select once of the ocean hexes.
+- ![roll realm](/images/button_realm.png)
+  Roll a realm - this option will be enabled only if you select once of the ocean hexes.
 
 ### Removing or resetting hex content
+
 ![broom button](/images/button_broom.png)
 
 When you choose to remove or reset hex content, you will be presented with the following options:
 
-
-*  
-![remove river](/images/button_river.png)
-Remove a River - clears the entire river across all hexes.
+- ![remove river](/images/button_river.png)
+  Remove a River - clears the entire river across all hexes.
 
 !!! warning
+
     Clearing a river that goes through settlements will alter the settlement
     map!
- 
-*  
-![rebuild river](/images/button_trail.png)
-Rebuild Trail - attempt to optimize any connected trails. This might help
-removing redundant trails paths.
 
-*  
-![reroll hex](/images/button_feature.png)
-Reroll an Empty Hex - clears any feature that is already in the hex and rolls a
-new empty hex instead.
+- ![rebuild river](/images/button_trail.png)
+  Rebuild Trail - attempt to optimize any connected trails. This might help
+  removing redundant trails paths.
+
+- ![reroll hex](/images/button_feature.png)
+  Reroll an Empty Hex - clears any feature that is already in the hex and rolls a
+  new empty hex instead.
 
 !!! warning
+
     Any settlements, NPCs and dungeons in the hex will be gone forever.
 
-
 ### Removing generated land
+
 ![trash button](/images/button_trash.png)
 When you choose to remove generated land, together with any content (Settlements, Dungeons, NPCs or other content you have added manually!), you will be presented with the following options:
 
-*  
-![remove hex](/images/button_hex.png)
-Remove a single Hex - together with everything in it
+- ![remove hex](/images/button_hex.png)
+  Remove a single Hex - together with everything in it
 
-*  
-![remove region](/images/button_region.png)
-Remove the full Region - together with everything in it
+- ![remove region](/images/button_region.png)
+  Remove the full Region - together with everything in it
 
-*  
-![remove realm](/images/button_realm.png)
-Remove the entire Realm - together with everything in it
-
+- ![remove realm](/images/button_realm.png)
+  Remove the entire Realm - together with everything in it

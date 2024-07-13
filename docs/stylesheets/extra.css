@@ -70,6 +70,7 @@ p img {
 
 .md-typeset h1 {
   font-size: 3em;
+  margin-bottom: 0.5em;
 }
 
 .md-typeset h2 {

@@ -7,7 +7,8 @@ If you zoom in enough to click on an individual hex, your screen layout will cha
 In crawl mode you'll be able to see the hex content side by side with the map. In this mode you can continue navigating the map by clicking hexes or dragging the map to any side.
 
 !!! tip
-You can also use the `WASD+QE` keys to navigate from hex to hex.
+
+    You can also use the `WASD+QE` keys to navigate from hex to hex.
 
 Using the mouse wheel in crawl mode will get you back into the full screen map mode.
 
@@ -26,4 +27,5 @@ or reroll other linked entities by clicking any of the dice symbols inside the t
 ![Reroll in a Page](/images/reroll-in-page.jpg)
 
 !!! note
-Re-rolling entities might have a cascading effect on other parts of your sandbox. For example, if you re-roll a dungeon, any lost item or captive NPC will likely be relocated to other dungeons.
+
+    Re-rolling entities might have a cascading effect on other parts of your sandbox. For example, if you re-roll a dungeon, any lost item or captive NPC will likely be relocated to other dungeons.

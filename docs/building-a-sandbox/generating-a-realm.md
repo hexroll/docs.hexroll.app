@@ -9,7 +9,8 @@ This is the spinner. When you see the spinner, it means Hexroll is now processin
 Pressing the `GENERATE` button will tell the generator to use all the parameters from the window and generate a new realm.
 
 !!! note
-Read more about how Hexroll fantasy realms generator work internally here.
+
+    Read more about how Hexroll fantasy realms generator work internally here.
 
 ![Generator Page](/images/generator-generate.png)
 
@@ -60,15 +61,19 @@ Hexroll will generate a random number of dungeons between the set values here.
 
 Hexroll will use the set probability multipliers `Px` for each one of the dungeon types: Caves, Temples, and Tombs.
 
-!!! note
-Caves are not available in the alpha version yet.
+**Dungeons Size:**
+
+Toggling this will make the generated dungeons generally smaller.
 
 **Wandering Monsters**:
 The list of wandering monsters inside a dungeon will be limited to include monsters with an HD equal or lower than the value specified here.
 
 ### Dwellings
 
-[documentation pending..]
+Dwellings are the first generated layer of populated hex features in Hexroll. Dwellings can be small cabins
+and farms, or larger strongholds hosting higher level NPCs such as castles and wizard towers.
+
+![Dwellings](/images/generator-dwellings.png)
 
 ### Inns
 
@@ -95,6 +100,14 @@ Factions are yet another good source for story hooks and NPCs motivation. Factio
 While factions do not have a unique location on the map, they are associated with one of the pre-generated entities - usually a dungeon or a tavern.
 
 ![Factions](/images/generator-factions.png)
+
+### Scroll Mods
+
+![ScrollMod](/images/generator-mods.png)
+
+Hexroll allows modifying and adding to its existing generator rules using SCROLL - a dedicated language designed specifically for Hexroll.
+
+Read more about modding in the [Modding Guide](/scroll/scroll-mods/).
 
 ### Tweaks and Experiments
 

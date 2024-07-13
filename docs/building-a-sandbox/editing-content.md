@@ -9,10 +9,9 @@ To edit a page, click the quill symbol at the top-right corner of the window.
 
 ![Unlock and Edit](/images/quill.jpg)
 
-When you choose to edit a page, HEXROLL copies the generated version of the page and lets you edit the copied version. 
+When you choose to edit a page, HEXROLL copies the generated version of the page and lets you edit the copied version.
 
 ![Edit a page](/images/page_editor.jpg)
-
 
 To save your changes, click the save button in the editor toolbar, or lock the page.
 
@@ -21,7 +20,6 @@ To save your changes, click the save button in the editor toolbar, or lock the p
 ## Embedding Images
 
 Click the insert/edit image button to link images in your page:
-
 
 ![image button](/images/edit_image.jpg)
 
@@ -33,11 +31,9 @@ When in editing mode, you can checkmark monsters and NPCs hitpoints. Select the 
 
 Then click the `Toggle HP` button in the toolbar:
 
-
 ![HP toggle](/images/hp_toggle_button.jpg)
 
 The checkbox will then get checked:
-
 
 ![HP checked](/images/hp_toggle_2.jpg)
 
@@ -45,9 +41,8 @@ The checkbox will then get checked:
 
 You can always revert to the generated version by clearing the entire text and saving.
 
-
 Your edited text will become part of the sandbox file, and will be packaged when generating a sandbox snapshot for offline viewing.
 
 !!! note
-    Editing a page this way will not change any other part of the sandbox. 
-    
+
+    Editing a page this way will not change any other part of the sandbox.

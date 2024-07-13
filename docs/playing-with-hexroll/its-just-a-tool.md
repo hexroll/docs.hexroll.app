@@ -1,1 +1,3 @@
-To be written - but you get the point :)
+* Even though HEXROLL provides a large set of locations, personas and story hooks, it still requires one's imagination to create a cohesive narrative and, if needed, reasoning behind the random content.
+* The amount of content HEXROLL generates can be overwhelming. One example is the larger dungeons it can generate. Remember - you don't have to use everything!
+* The random nature of HEXROLL will very likely present you with content that may seem illogical. Try using these as narrative opportunities. For example, why it may initially seem weird that two cities are in two neighboring hexes, it can still be plausible if, for example, they represent two rivaling, but not-violent factions.

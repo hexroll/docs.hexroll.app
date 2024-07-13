@@ -49,9 +49,9 @@ greeting! @ [
 
 This expression means: "Define an attribute named `greeting` and make it visible to any renderer (using the `!` symbol), then roll (`@`) a random value from a list of possible values indicated by `*` bulleted items inside matching `[` square brackets `]`"
 
-The `@` operator is a key construct of Scroll and we will use it frequently to generate random values and entities moving forward.
+The `@` operator is a key construct of Scroll. It is how we tell scroll to roll random values and entities.
 
-The `!` operator must be used any time we wish to use an attribute to output text from a renderer or use an attribute from another entity (more on this later).
+The `!` operator must be used any time we want to export an attribute to a renderer or to another entity (more on this later).
 
 
 Now let's examine the `HTML` renderer:
