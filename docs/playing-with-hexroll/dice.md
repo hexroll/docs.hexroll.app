@@ -1,25 +1,24 @@
-# Solo and No-Spoilers modes
+# Dice Box
 
-If when generating your sandbox you used the solo sandbox generator - then you will begin your hexcrawl
-by choosing your preferred starting point using a window similar to this:
+Hexroll provides a built-in dice box that you can activate by clicking the dice-bar toggle, or by pressing **R**:
 
-![solo-starting-point](/images/solo-starting-point.png)
+![dice-bar-toggle](/images/dicebar-toggle.jpg)
 
-Clicking any one of the proposed locations will reveal the location hex and partially reveal its surrounding hexes:
+The dice box provides a standard set of dice and a dice color picker:
 
-![solo-hex-flower](/images/solo-1.jpg)
+![dice-bar](/images/dice-bar.jpg)
 
-!!! note
+Clicking one of the dice icons will roll the die on the screen:
 
-    Note that the no-spoilers mode is also toggled by-default.
+![dice-roller](/images/dice-roller.jpg)
 
-Any mouse click on a partially revealed hex, or hex navigation using the WASD keys, will reveal the adjacent hex flower:
+Alternatively, you can press the following numeric keys to roll the following dice:
 
-![solo-hex-crawling](/images/solo-2.jpg)
-
-The enabled No-Spoilers mode will automatically mask most secrets and spoilers:
-
-![no-spoilers](/images/no-spoilers.jpg)
-
-To reveal the text behind the mask, hover your mouse over the text.
-
+- **2** - d20
+- **3** - d12
+- **4** - d10
+- **5** - d8
+- **6** - d6
+- **7** - d4
+- **8** - d7
+- **0** - d100
