@@ -1,7 +1,13 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 #
 
 <div id="banner">
-<a href="https://hexroll.app">
+<a href="https://hexroll.app" style="display:block">
 <img src="/images/hexroll2e.svg"/>
 </a>
 
@@ -19,8 +25,6 @@ The source files of the guidebook are available on Github at https://github.com/
 Help documenting HEXROLL by contributing via Github or opening issues for any missing or incorrect content.
 </p>
 
-
 <h2> <a href="/getting-started"> START HERE </a> </h2>
 
 </div>
-
