@@ -33,9 +33,23 @@ To indicate hexes to your players, hold down the `F` key and click any hex you w
 
 ## Dungeon maps controls
 
+### Revealing and concealing dungeon areas
+
 To reveal or conceal dungeon or cave areas, hold down the `Spacebar` key and click any area on the map.
 
-To add tokens to dungeon maps, hold down the `T` key and click the position you would like the token to be added to. Some tokens will have a torch or a lantern symbol overlay.
+![Dungeon Area Reveal](/images/dungeon-reveal.jpg)
+
+### Adding tokens
+
+To add tokens to dungeon maps, hold down the `T` key and click the position you would like the token to be added to.
+
+![Tokens Dialog](/images/tokens-dialog.jpg)
+
+!!! tip
+
+    Use the Token Tags field to quickly filter tokens by category
+
+Some tokens will have a torch or a lantern symbol overlay.
 
 ![VTT Token](/images/token.jpg)
 
@@ -48,7 +62,43 @@ You must have at least one light source token in the map for the players to see 
     Even after adding a token with a light source, you will still need to reveal or conceal areas. This
     is, for example, how you can emulate closing and opening dungeon doors.
 
+### Removing tokens
+
 To remove tokens, hold down the `K` key and click the token you wish to remove.
+
+### Changing tokens / using external tokens
+
+You can edit any token by double-clicking it:
+
+![Token Settings](/images/token-settings.jpg)
+
+#### Color
+
+Changes the color of any built-in token and the color of its label
+
+#### Semi-transparent
+
+Changes the opacity of the token (useful to indicate when characters are invisible for example)
+
+#### label
+
+Adds a label to the token
+
+#### Light radius
+
+Controls the light radius the token has (but map areas must still be revealed using `spacebar`)
+
+#### Token PNG Link
+
+Allow using PNG images as tokens via a URL. Note that the URL must be accessible by all players.
+
+#### Scale factor
+
+Allows scaling up the token size
+
+#### Lock in place
+
+Prevents moving or rotating the token. Useful for scenery tokens for example.
 
 ## Battlemaps
 
