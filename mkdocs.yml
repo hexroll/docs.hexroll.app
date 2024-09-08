@@ -26,6 +26,7 @@ nav:
   - Modding using SCROLL:
       - Scroll Tutorial: scroll/scroll-tutorial.md
       - Modding Guide: scroll/scroll-mods.md
+      - Scrolls Archive: scroll/scrolls-archive.md
       - Sandbox Graph Behaviors: hexroll-internals/graph-behavior.md
 theme:
   logo: images/logo.png
