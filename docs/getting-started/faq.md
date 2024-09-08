@@ -70,7 +70,7 @@ You can often re-roll hex entities by unlocking the page, or you can directly ed
 
 ### How can I rename a town, region or realm?
 
-Click the entity name in the header, edit it and press ESC.
+When editing the page (using the feather symbol), click the entity name in the header, edit it and press ESC.
 
 ### Can I change the name of a specific NPC?
 
