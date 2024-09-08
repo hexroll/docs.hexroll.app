@@ -23,6 +23,7 @@ nav:
       - Map Pins: playing-with-hexroll/pins.md
       - VTT Projection: playing-with-hexroll/vtt-projection.md
       - Using Hexroll Offline: playing-with-hexroll/using-hexroll-offline.md
+      - Exporting map images: playing-with-hexroll/exporting-map-images.md
   - Modding using SCROLL:
       - Scroll Tutorial: scroll/scroll-tutorial.md
       - Modding Guide: scroll/scroll-mods.md
