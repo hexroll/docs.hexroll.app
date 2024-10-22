@@ -13,6 +13,10 @@ When you choose to edit a page, HEXROLL copies the generated version of the page
 
 ![Edit a page](/images/page_editor.jpg)
 
+!!! note
+
+    You can also change the title by clicking it. If you change location names, your change will propagate to the entire sandbox.
+
 To save your changes, click the save button in the editor toolbar, or lock the page.
 
 ![Save button](/images/editor_save.jpg)
